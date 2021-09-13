@@ -12,4 +12,4 @@
 
 #### 4、使用方式
 
-- 运行命令：python /home/work/zhouyang/python_zy/putKylin.py $cubeName BUILD $startTime(yyyyMMdd) $endTime(yyyyMMdd) 
+- 运行命令：python /home/work/buildKylin.py $cubeName BUILD $startTime(yyyyMMdd) $endTime(yyyyMMdd) 
